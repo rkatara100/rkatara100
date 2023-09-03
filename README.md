@@ -1,4 +1,3 @@
-
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&vCenter=true&width=800&height=80&lines=Hello+people!+Welcome+to+my+Profile!;I+am+Rohit+Katara%2C+a+tech+enthusiast.)
 
 
@@ -38,4 +37,3 @@ Pick a slot if you'd like to chat about anything you are passionate about or wan
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-katara-0b85701bb/)](https://www.linkedin.com/in/rohit-katara-0b85701bb/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkatara100@gmail.com)](mailto:rkatara100@gmail.com) [![Coding ninjas Badge](https://img.shields.io/badge/-codingninjas-fff?style=flat-square&logo=codingninjas&logoColor=orange&link=https://www.codingninjas.com/studio/profile/72d9164a-0b0b-4e51-9cb8-9c2cc0222941)](https://www.codingninjas.com/studio/profile/72d9164a-0b0b-4e51-9cb8-9c2cc0222941)[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-050c1b?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Rkatara100?hr_r=1)](https://www.hackerrank.com/Rkatara100?hr_r=1)
 
 <br>
-
